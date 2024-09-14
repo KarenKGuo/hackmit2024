@@ -1,0 +1,3 @@
+[submodule "food-detection-yolov5"]
+	path = food-detection-yolov5
+	url = git@github.com:aifork/food-detection-yolov5.git
